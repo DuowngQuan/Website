@@ -35,7 +35,6 @@ let typed=new Typed(".GioiThieu", {
 const MusicList=[
     "//thanhdieu.com/files/Em-Nào-Có-Tội.mp3",
     "//thanhdieu.com/files/Anh-Đã-Quen-Với-Cô-Đơn.mp3",
-    "//thanhdieu.com/files/Về-Bên-Anh.mp3",
     "//files.catbox.moe/89aglq.mp3",
     "//files.catbox.moe/ex3kns.mp3",
     "//files.catbox.moe/ynbjdz.mp3",
